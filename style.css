@@ -136,32 +136,3 @@ nav ul li a::after{
 nav ul li a:hover::after{
     width: 100%;
 }
-/*-------------------------Product------------------*/
-#about{
-    padding: 70px 0;
-    color: whitesmoke;
-}
-.product-col-1 img{
-    /*width: 30%;*/
-    border-radius: 20px;
-    padding: 60px;
-}
-.row{
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
-.tile {
-    background-color: #fafafa;
-    color: black;
-    height: 30rem;
-    width: 25rem;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
-    border-radius: 0.5rem;
-    transition: all 0.2s;
-    padding: 1.5rem;
-    margin: 1.5rem;
-}
-.tile h4{
-    margin: 5px;
-}
